@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samik1234" alt="samik1234" /></a> </p>
 
+- 🔭 I’m currently working at **Upwork Freelancer**
+
 - 🌱 I’m currently learning **Next.js**
+
+- 🤝 I’m looking for a new role **Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://portflo-six.vercel.app/](https://portflo-six.vercel.app/)
 
