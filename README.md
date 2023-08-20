@@ -1,3 +1,4 @@
+![1686155695510](https://github.com/samik1234/samik1234/assets/82882143/db6f3b7d-fb7e-4a34-ba7d-6b33e628844f)
 <h1 align="center">Hi 👋, I'm Samiksha Wankhade</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
