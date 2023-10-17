@@ -35,4 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samik1234&show_icons=true&locale=en&layout=compact" alt="samik1234" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samik1234&show_icons=true&locale=en" alt="samik1234" /></p>
-[![Pull Request Labeller](https://github.com/novuhq/novu/actions/workflows/pr-labeler.yml/badge.svg)](https://github.com/novuhq/novu/actions/workflows/pr-labeler.yml)
