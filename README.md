@@ -12,8 +12,7 @@
 
 - 🤝 I’m looking for a new role **Software Engineer**
 
-- 👨‍💻 All of my projects are available at [https://portflo-six.vercel.app/](https://portflo-six.vercel.app/)
-
+- 👨‍💻 All of my projects are available at https://samikshawankhade.netlify.app
 - 💬 Ask me about **React, JavaScript! UI/UX design and Web development**
 
 - 📫 How to reach me **samikshawankhade11@gmail.com**
