@@ -1,5 +1,13 @@
 
-![Welcome Banner](https://me![giphy](https://github.com/user-attachments/assets/42557e61-358e-4c7a-b853-ce856e1505be)dia.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/80701d3e-ef1f-44dc-bb9d-c53e0ac8b367)
+
+
+
+
+
+
+
 
 
 # Hi there, I'm Samiksha! 👋
