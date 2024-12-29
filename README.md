@@ -1,4 +1,4 @@
-![1686155695510](https://github.com/samik1234/samik1234/assets/82882143/db6f3b7d-fb7e-4a34-ba7d-6b33e628844f)
+![Developer Banner](https://your-image-link.com/banner.png)
 
 
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning advanced JavaScript and exploring machine learning.
 - 💼 I’m working on interesting projects that solve real-world problems.
 - 💬 Ask me about web development, Python, and data analysis.
-- 📫 How to reach me: [samik@example.com](mailto:samik@example.com)
+- 📫 How to reach me: [samik@example.com](mailto:samikshawankhade11@gmail.com)
 - ⚡ Fun fact: I'm a coffee enthusiast and love experimenting with new brewing techniques!
 
 ## 🌐 Connect with Me
@@ -37,3 +37,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=samik1234&theme=radical)
+
+
+## ✨ Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+</p>
