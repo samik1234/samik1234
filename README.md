@@ -2,9 +2,10 @@
 
 
 
-# Hi there, I'm Samik! 👋
+# Hi there, I'm Samiksha! 👋
 
-![Welcome Banner](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source projects, and continuous learning. Here's a little bit about me:
 
@@ -12,22 +13,21 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning advanced JavaScript and exploring machine learning.
 - 💼 I’m working on interesting projects that solve real-world problems.
 - 💬 Ask me about web development, Python, and data analysis.
-- 📫 How to reach me: [samik@example.com](mailto:samikshawankhade11@gmail.com)
+- 📫 How to reach me: [samik@example.com](mailto:samik@example.com)
 - ⚡ Fun fact: I'm a coffee enthusiast and love experimenting with new brewing techniques!
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samikshawankha)
-[![Twitter](https://img.shields.io/twitter/follow/samik1234?style=flat&logo=twitter)](https://twitter.com)
 
 ## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![UI/UX Design](https://img.shields.io/badge/-UI/UX-333?style=flat&logo=adobe)
 
 ## 📊 GitHub Stats
 ![Samik's GitHub stats](https://github-readme-stats.vercel.app/api?username=samik1234&show_icons=true&theme=radical)
@@ -37,8 +37,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=samik1234&theme=radical)
-
-## ✨ Fun Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4p2D9rhnQzWDS/giphy.gif" width="300" alt="Coding Animation">
-</p>
