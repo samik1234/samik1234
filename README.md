@@ -1,5 +1,5 @@
 
-![giphy](https://github.com/user-attachments/assets/af43359c-a645-49b9-88bb-7abb5facb0b7)
+![Welcome Banner](https://me![giphy](https://github.com/user-attachments/assets/42557e61-358e-4c7a-b853-ce856e1505be)dia.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 
 # Hi there, I'm Samiksha! 👋
@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samikshawankha)
-![github-icon](https://github.com/user-attachments/assets/31c21334-3c38-4fc9-b1e6-919678178f95)
 
 
 ## 🛠️ Technologies & Tools
@@ -41,5 +40,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![trophy](https://github-profile-trophy.vercel.app/?username=samik1234&theme=radical)
 
 
+## ✨ Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+</p>
 
-![images](https://github.com/user-attachments/assets/85982206-2c6f-484f-989d-54bac2b811af)
