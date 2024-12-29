@@ -2,7 +2,9 @@
 
 
 
-# Hi there, I'm Samiksha! 👋
+# Hi there, I'm Samik! 👋
+
+![Welcome Banner](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source projects, and continuous learning. Here's a little bit about me:
 
@@ -14,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - ⚡ Fun fact: I'm a coffee enthusiast and love experimenting with new brewing techniques!
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samik1234/)
-[![Twitter](https://img.shields.io/twitter/follow/samik1234?style=flat&logo=twitter)](https://twitter.com/samik1234)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samikshawankha)
+[![Twitter](https://img.shields.io/twitter/follow/samik1234?style=flat&logo=twitter)](https://twitter.com)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -32,3 +34,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📈 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samik1234&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=samik1234&theme=radical)
+
+## ✨ Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4p2D9rhnQzWDS/giphy.gif" width="300" alt="Coding Animation">
+</p>
