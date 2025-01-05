@@ -46,6 +46,3 @@ Feel free to reach out if you want to collaborate on a project, have any questio
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=samik1234.samik1234" alt="visitor badge"/>
-</p>
