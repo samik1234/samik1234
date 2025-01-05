@@ -76,10 +76,6 @@ Here are some of my noteworthy projects:
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=samik1234&theme=radical)
 
-## 🌟 Check out my work at JS Mastery Pro
-[![JS Mastery Pro](https://i.ibb.co/pJ320jx/github.png)](https://www.jsmastery.pro)
-[![JS Mastery Pro](https://i.postimg.cc/Y24xGvW8/github.png)](https://www.jsmastery.pro)
-
 ## ✨ Coding Animation
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
