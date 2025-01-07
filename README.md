@@ -5,7 +5,7 @@
 
 
 
-# Hi there, I'm Samiksha! 👋
+# Hi there, I'm Samiksha Wankhade! 👋
 
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source projects, and continuous learning. Here's a little bit about me:
