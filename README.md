@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🚀 About Me
 - 🌱 I’m currently learning advanced JavaScript and exploring machine learning.
 - 💼 I’m working on interesting projects that solve real-world problems.
-- 💬 Ask me about web development, Python, and data analysis.
+- 💬 Ask me about web development, tech stack and other services.
 - 📫 How to reach me: [samikshawankhade11@gmail.com](mailto:samikshawankhade11@gmail.com)
 - ⚡ Fun fact: I'm a coffee enthusiast and love experimenting with new brewing techniques!
 
@@ -47,7 +47,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 
 
-If you need any further adjustments or additions, just let me know!
 
 
 ## 📫 Get in Touch
