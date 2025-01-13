@@ -5,8 +5,8 @@
 
 
 
-# Hi there, I'm Samiksha! 👋
 
+# Hi there, I'm Samiksha! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source projects, and continuous learning. Here's a little bit about me:
 
@@ -19,6 +19,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samikshawankha)
+
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -39,6 +44,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
 </p>
+
+
+
+If you need any further adjustments or additions, just let me know!
+
 
 ## 📫 Get in Touch
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi!
