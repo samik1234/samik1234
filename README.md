@@ -50,13 +50,9 @@ Welcome to my GitHub profile! I'm a Software Development Engineer (SDE) passiona
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samik1234&show_icons=true&theme=radical" alt="Samiksha's GitHub stats" />
-</div>
 
----
+
 
 ## 📈 Top Languages
 
