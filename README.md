@@ -7,7 +7,7 @@
 
 # Hi there, I'm Samiksha! 👋
 
-Welcome to my GitHub profile! I'm a Software Development Engineer (SDE) passionate about building fast, secure, and responsive web applications using modern web technologies.
+I’m a **Frontend Developer** with a strong foundation in building responsive web applications using modern web technologies. I enjoy learning by building projects and improving my problem-solving skills.
 
 ---
 
