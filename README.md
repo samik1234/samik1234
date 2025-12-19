@@ -13,13 +13,11 @@ Welcome to my GitHub profile! I'm a Software Development Engineer (SDE) passiona
 
 ## 🚀 About Me
 
-- 👩‍💻 Software Development Engineer with 2+ years in frontend & full-stack development  
-- 🌱 Currently exploring advanced JavaScript & machine learning fundamentals  
-- 💼 Building projects that solve real-world problems (Job Tracker, Privacy Extension, Login UI)  
-- 🔐 Advocate for cybersecurity & privacy-first design  
-- ☕ Coffee enthusiast—always down for a deep brew and deeper code!  
-- 📫 Reach me at: [samikshawankhade11@gmail.com](mailto:samikshawankhade11@gmail.com)  
-- 🌐 Portfolio: [samikshawankhade.netlify.app](https://samikshawankhade.netlify.app)
+👩‍💻 Frontend Developer (Fresher / Entry-Level)  
+🌱 Currently strengthening my skills in **React.js and JavaScript**  
+💼 Building real-world frontend projects (Airbnb Clone, Post App, UI Projects)  
+🎯 Interested in UI development and clean, user-friendly interfaces  
+☕ Coffee lover who enjoys coding and continuous learning  
 
 ---
 
