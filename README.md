@@ -13,7 +13,7 @@ I’m a **Frontend Developer** with a strong foundation in building responsive w
 
 ## 🚀 About Me
 
-👩‍💻 Frontend Developer (Fresher / Entry-Level)  
+👩‍💻 Frontend Developer (2 years of Experience)  
 🌱 Currently strengthening my skills in **React.js and JavaScript**  
 💼 Building real-world frontend projects (Airbnb Clone, Post App, UI Projects)  
 🎯 Interested in UI development and clean, user-friendly interfaces  
